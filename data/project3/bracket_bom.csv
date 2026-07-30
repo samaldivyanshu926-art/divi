@@ -1,0 +1,6 @@
+item,part_number,description,qty,material,unit_mass_kg,source,extended_mass_kg
+1,JX-FIX-001,Load Cell Mounting Bracket,1,Aluminum 6061-T6,0.2917,Machined in-house,0.2917
+2,DIN 912 - M8x25,"Socket Head Cap Screw, M8 x 1.25 x 25mm, Class 12.9",4,"Alloy Steel, Zinc-Plated",0.021,COTS (McMaster-Carr / Fastenal),0.084
+3,DIN 125 - M8,"Flat Washer, M8",4,"Steel, Zinc-Plated",0.003,COTS,0.012
+4,DIN 985 - M8,"Nylon-Insert Locknut, M8 x 1.25",4,"Steel, Zinc-Plated",0.005,COTS,0.02
+5,CLEVIS-PIN-20MM,"Clevis Pin, ⌀20.0mm, with retaining clips",1,"Steel 4130, Hardened",0.045,COTS (load-cell manufacturer accessory kit),0.045
