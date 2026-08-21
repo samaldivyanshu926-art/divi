@@ -1,0 +1,13 @@
+# Smart Waste Classification System
+# Prefer CPU wheels for torch on servers without GPU:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+
+torch>=2.1.0
+torchvision>=0.16.0
+opencv-python-headless>=4.8.0
+streamlit>=1.28.0
+Pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
