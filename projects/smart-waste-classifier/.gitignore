@@ -3,18 +3,13 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .streamlit/
-*.pt
-*.pth
-*.keras
-*.h5
 .DS_Store
 .env
 data/raw/**
 !data/raw/.gitkeep
 data/trashnet_repo/
-models/*.pt
-models/*.json
+# Keep demo checkpoint + samples in repo for out-of-the-box Streamlit
+!models/waste_mobilenetv2.pt
 !models/README.md
-sample_images/*.png
-sample_images/*.jpg
+!sample_images/*.png
 !sample_images/README.md
